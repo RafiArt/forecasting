@@ -54,7 +54,7 @@ pandas==2.3.1
 patsy==1.0.1
 pillow==11.2.1
 plotly==6.2.0
-protobuf>=3.20,<7  # Diperbarui untuk kompatibilitas dengan streamlit
+protobuf>=3.9.2,<3.20
 pyarrow==20.0.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
@@ -74,7 +74,7 @@ scipy==1.15.3
 six==1.17.0
 smmap==5.0.2
 statsmodels==0.14.5
-streamlit==1.46.1
+streamlit==1.25.0
 sympy==1.14.0
 tenacity==9.1.2
 tensorboard==2.10.1
