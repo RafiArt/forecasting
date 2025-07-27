@@ -54,7 +54,7 @@ pandas==2.3.1
 patsy==1.0.1
 pillow==11.2.1
 plotly==6.2.0
-protobuf>=3.9.2,<3.20
+protobuf>=3.20,<7  # Diperbarui untuk kompatibilitas dengan streamlit
 pyarrow==20.0.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
